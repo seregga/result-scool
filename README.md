@@ -1,1 +1,1 @@
-# result-scool
+# result-scool (здесь пишем ридми)
