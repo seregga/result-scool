@@ -1,0 +1,1 @@
+const classList = document.querySelector(".title").classList
